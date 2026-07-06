@@ -38,13 +38,13 @@ I'm a passionate Front-End Developer who enjoys building modern, responsive, and
 
 # 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,firebase,git,github,vscode,figma,vercel,netlify,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,git,github,vscode,figma,vercel,netlify,postman" />
 
 ---
 
 # 📚 Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=redux,graphql,threejs,docker"/>
+<img src="https://skillicons.dev/icons?i=redux,graphql,threejs"/>
 
 ---
 
@@ -54,17 +54,17 @@ I'm a passionate Front-End Developer who enjoys building modern, responsive, and
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=byasilbekdev&repo=portfolio&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/byasilbekdev/nextjs-admin-dashboard">
+<!-- <a href="https://github.com/byasilbekdev/nextjs-admin-dashboard">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=byasilbekdev&repo=nextjs-admin-dashboard&theme=tokyonight&hide_border=true"/>
-</a>
+</a> -->
 
 <a href="https://github.com/byasilbekdev/weather-app">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=byasilbekdev&repo=weather-app&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/byasilbekdev/youtube-clone">
+<!-- <a href="https://github.com/byasilbekdev/youtube-clone">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=byasilbekdev&repo=youtube-clone&theme=tokyonight&hide_border=true"/>
-</a>
+</a> -->
 
 ---
 
