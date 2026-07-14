@@ -118,7 +118,7 @@ I'm a passionate Front-End Developer who enjoys building modern, responsive, and
 
 <p align="center">
 
-<a href="https://byasilbek.uz">
+<a href="https://byasilbekdev.uz">
 <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
